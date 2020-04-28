@@ -49,7 +49,7 @@ class ImageListViewModel : ViewModel() {
                     _errorText.value = null
                 }
                 else{
-                    _errorText.value="No results found"
+                    _errorText.value="No results found. Add some images to the server"
                 }
                 _showProgressBar.value=false
 
