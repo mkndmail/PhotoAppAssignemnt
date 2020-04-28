@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406213665103",
+    "firebase_url": "https://photoapp-c8331.firebaseio.com",
+    "project_id": "photoapp-c8331",
+    "storage_bucket": "photoapp-c8331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406213665103:android:ffa5a1e73269c4223ae53a",
+        "android_client_info": {
+          "package_name": "com.myapp.photoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406213665103-u0c88b18mnoesqkq1lmibbvpvacin4ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArjUwtLFrfUg3SaYw9jv88Rf0fg8ssBBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406213665103-u0c88b18mnoesqkq1lmibbvpvacin4ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

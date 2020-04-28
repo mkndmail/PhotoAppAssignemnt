@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.myapp.photoapp.ui.customview.CustomImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/detail_image"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scaleType="matrix"
+    tools:context=".ui.imageview.DetailImageActivity"/>
