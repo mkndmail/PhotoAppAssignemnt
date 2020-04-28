@@ -30,7 +30,9 @@
         tools:layout="@layout/camera_ui_container">
         <action
             android:id="@+id/action_cameraFragment_to_navigation_images_list"
-            app:destination="@id/navigation_images_list" />
+            app:destination="@id/navigation_images_list"
+            app:popUpTo="@id/navigation_home"
+            app:popUpToInclusive="false" />
     </fragment>
 
 
